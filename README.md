@@ -1,4 +1,4 @@
-# M6.2 Lab
+# M7.2 Lab
 
 This project changes the layout of the given html and css file but with the use of flex, grid, positoning and float as main css styles to use. 
 
