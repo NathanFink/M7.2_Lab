@@ -1,8 +1,6 @@
-# web-dev-starter
+# M6.2 Lab
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This project changes the layout of the given html and css file but with the use of flex, grid, positoning and float as main css styles to use. 
 
 ## Getting Started
 
@@ -27,3 +25,21 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+## Running
+Clone the github repository using
+
+    git clone https://github.com/NathanFink/M7.2_Lab.git
+
+Move into the directory
+
+    cd NathanFink/M7.2_Lab
+
+Open the project in Vscode
+
+Install Live Preview on Vscode
+
+Start the Live Preview from the Command Palette
+
+If you wish to view this in your browser you can use the local url
+
+    http://127.0.0.1:3000
